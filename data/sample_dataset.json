@@ -1,0 +1,338 @@
+{
+  "books": [
+    {
+      "id": "B-0001",
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "category": "Programming",
+      "isbn": "9781593279288",
+      "total_copies": 5,
+      "available_copies": 4
+    },
+    {
+      "id": "B-0002",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "isbn": "9780132350884",
+      "total_copies": 3,
+      "available_copies": 3
+    },
+    {
+      "id": "B-0003",
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas",
+      "category": "Programming",
+      "isbn": "9780135957059",
+      "total_copies": 4,
+      "available_copies": 4
+    },
+    {
+      "id": "B-0004",
+      "title": "Introduction to Algorithms",
+      "author": "Cormen et al.",
+      "category": "Computer Science",
+      "isbn": "9780262046305",
+      "total_copies": 2,
+      "available_copies": 1
+    },
+    {
+      "id": "B-0005",
+      "title": "Database System Concepts",
+      "author": "Silberschatz et al.",
+      "category": "Computer Science",
+      "isbn": "9780078022159",
+      "total_copies": 3,
+      "available_copies": 3
+    },
+    {
+      "id": "B-0006",
+      "title": "Operating System Concepts",
+      "author": "Silberschatz et al.",
+      "category": "Computer Science",
+      "isbn": "9781119800361",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B-0007",
+      "title": "Computer Networks",
+      "author": "Andrew S. Tanenbaum",
+      "category": "Networking",
+      "isbn": "9780132126953",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B-0008",
+      "title": "Artificial Intelligence",
+      "author": "Stuart Russell",
+      "category": "AI",
+      "isbn": "9780134610993",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B-0009",
+      "title": "Deep Learning",
+      "author": "Ian Goodfellow",
+      "category": "AI",
+      "isbn": "9780262035613",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B-0010",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "isbn": "9780061122415",
+      "total_copies": 4,
+      "available_copies": 3
+    },
+    {
+      "id": "B-0011",
+      "title": "Wings of Fire",
+      "author": "A. P. J. Abdul Kalam",
+      "category": "Biography",
+      "isbn": "9788173711466",
+      "total_copies": 5,
+      "available_copies": 5
+    },
+    {
+      "id": "B-0012",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self Help",
+      "isbn": "9780735211292",
+      "total_copies": 3,
+      "available_copies": 2
+    },
+    {
+      "id": "B-0013",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Finance",
+      "isbn": "9780857197689",
+      "total_copies": 3,
+      "available_copies": 3
+    },
+    {
+      "id": "B-0014",
+      "title": "Physics for Scientists",
+      "author": "Raymond Serway",
+      "category": "Science",
+      "isbn": "9788131720000",
+      "total_copies": 1,
+      "available_copies": 1
+    },
+    {
+      "id": "B-0015",
+      "title": "Discrete Mathematics",
+      "author": "Kenneth Rosen",
+      "category": "Mathematics",
+      "isbn": "9780073383095",
+      "total_copies": 2,
+      "available_copies": 2
+    }
+  ],
+  "members": [
+    {
+      "id": "M-0001",
+      "name": "Aarav Sharma",
+      "email": "member1@campussolve.edu",
+      "phone": "+919876540001",
+      "joined_on": "2026-02-05"
+    },
+    {
+      "id": "M-0002",
+      "name": "Diya Reddy",
+      "email": "member2@campussolve.edu",
+      "phone": "+919876540002",
+      "joined_on": "2026-03-05"
+    },
+    {
+      "id": "M-0003",
+      "name": "Ishaan Patel",
+      "email": "member3@campussolve.edu",
+      "phone": "+919876540003",
+      "joined_on": "2026-04-05"
+    },
+    {
+      "id": "M-0004",
+      "name": "Ananya Iyer",
+      "email": "member4@campussolve.edu",
+      "phone": "+919876540004",
+      "joined_on": "2026-05-05"
+    },
+    {
+      "id": "M-0005",
+      "name": "Kabir Nair",
+      "email": "member5@campussolve.edu",
+      "phone": "+919876540005",
+      "joined_on": "2026-06-05"
+    },
+    {
+      "id": "M-0006",
+      "name": "Meera Joshi",
+      "email": "member6@campussolve.edu",
+      "phone": "+919876540006",
+      "joined_on": "2026-07-05"
+    },
+    {
+      "id": "M-0007",
+      "name": "Vivaan Rao",
+      "email": "member7@campussolve.edu",
+      "phone": "+919876540007",
+      "joined_on": "2026-08-05"
+    },
+    {
+      "id": "M-0008",
+      "name": "Sara Khan",
+      "email": "member8@campussolve.edu",
+      "phone": "+919876540008",
+      "joined_on": "2026-09-05"
+    },
+    {
+      "id": "M-0009",
+      "name": "Arjun Das",
+      "email": "member9@campussolve.edu",
+      "phone": "+919876540009",
+      "joined_on": "2026-01-05"
+    },
+    {
+      "id": "M-0010",
+      "name": "Ira Menon",
+      "email": "member10@campussolve.edu",
+      "phone": "+919876540010",
+      "joined_on": "2026-02-05"
+    },
+    {
+      "id": "M-0011",
+      "name": "Rohan Gupta",
+      "email": "member11@campussolve.edu",
+      "phone": "+919876540011",
+      "joined_on": "2026-03-05"
+    },
+    {
+      "id": "M-0012",
+      "name": "Myra Shah",
+      "email": "member12@campussolve.edu",
+      "phone": "+919876540012",
+      "joined_on": "2026-04-05"
+    },
+    {
+      "id": "M-0013",
+      "name": "Aditya Kumar",
+      "email": "member13@campussolve.edu",
+      "phone": "+919876540013",
+      "joined_on": "2026-05-05"
+    },
+    {
+      "id": "M-0014",
+      "name": "Kiara Singh",
+      "email": "member14@campussolve.edu",
+      "phone": "+919876540014",
+      "joined_on": "2026-06-05"
+    },
+    {
+      "id": "M-0015",
+      "name": "Reyansh Verma",
+      "email": "member15@campussolve.edu",
+      "phone": "+919876540015",
+      "joined_on": "2026-07-05"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "T-0001",
+      "book_id": "B-0001",
+      "member_id": "M-0001",
+      "issue_date": "2026-11-16",
+      "due_date": "2026-11-22",
+      "return_date": null,
+      "status": "ISSUED"
+    },
+    {
+      "id": "T-0002",
+      "book_id": "B-0002",
+      "member_id": "M-0002",
+      "issue_date": "2026-11-13",
+      "due_date": "2026-11-21",
+      "return_date": null,
+      "status": "ISSUED"
+    },
+    {
+      "id": "T-0003",
+      "book_id": "B-0003",
+      "member_id": "M-0003",
+      "issue_date": "2026-11-10",
+      "due_date": "2026-11-20",
+      "return_date": null,
+      "status": "ISSUED"
+    },
+    {
+      "id": "T-0004",
+      "book_id": "B-0004",
+      "member_id": "M-0004",
+      "issue_date": "2026-11-07",
+      "due_date": "2026-11-30",
+      "return_date": null,
+      "status": "ISSUED"
+    },
+    {
+      "id": "T-0005",
+      "book_id": "B-0005",
+      "member_id": "M-0005",
+      "issue_date": "2026-11-04",
+      "due_date": "2026-12-01",
+      "return_date": "2026-11-09",
+      "status": "RETURNED"
+    },
+    {
+      "id": "T-0006",
+      "book_id": "B-0006",
+      "member_id": "M-0006",
+      "issue_date": "2026-11-01",
+      "due_date": "2026-12-02",
+      "return_date": "2026-11-06",
+      "status": "RETURNED"
+    },
+    {
+      "id": "T-0007",
+      "book_id": "B-0007",
+      "member_id": "M-0007",
+      "issue_date": "2026-10-29",
+      "due_date": "2026-12-03",
+      "return_date": "2026-11-03",
+      "status": "RETURNED"
+    },
+    {
+      "id": "T-0008",
+      "book_id": "B-0008",
+      "member_id": "M-0008",
+      "issue_date": "2026-10-26",
+      "due_date": "2026-12-04",
+      "return_date": "2026-10-31",
+      "status": "RETURNED"
+    },
+    {
+      "id": "T-0009",
+      "book_id": "B-0009",
+      "member_id": "M-0009",
+      "issue_date": "2026-10-23",
+      "due_date": "2026-12-05",
+      "return_date": "2026-10-28",
+      "status": "RETURNED"
+    },
+    {
+      "id": "T-0010",
+      "book_id": "B-0010",
+      "member_id": "M-0010",
+      "issue_date": "2026-10-20",
+      "due_date": "2026-12-06",
+      "return_date": "2026-10-25",
+      "status": "RETURNED"
+    }
+  ]
+}

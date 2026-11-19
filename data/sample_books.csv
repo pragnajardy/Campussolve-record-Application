@@ -1,0 +1,16 @@
+id,title,author,category,isbn,total_copies,available_copies
+B-0001,Python Crash Course,Eric Matthes,Programming,9781593279288,5,4
+B-0002,Clean Code,Robert C. Martin,Programming,9780132350884,3,3
+B-0003,The Pragmatic Programmer,David Thomas,Programming,9780135957059,4,4
+B-0004,Introduction to Algorithms,Cormen et al.,Computer Science,9780262046305,2,1
+B-0005,Database System Concepts,Silberschatz et al.,Computer Science,9780078022159,3,3
+B-0006,Operating System Concepts,Silberschatz et al.,Computer Science,9781119800361,2,2
+B-0007,Computer Networks,Andrew S. Tanenbaum,Networking,9780132126953,2,2
+B-0008,Artificial Intelligence,Stuart Russell,AI,9780134610993,2,2
+B-0009,Deep Learning,Ian Goodfellow,AI,9780262035613,2,2
+B-0010,The Alchemist,Paulo Coelho,Fiction,9780061122415,4,3
+B-0011,Wings of Fire,A. P. J. Abdul Kalam,Biography,9788173711466,5,5
+B-0012,Atomic Habits,James Clear,Self Help,9780735211292,3,2
+B-0013,The Psychology of Money,Morgan Housel,Finance,9780857197689,3,3
+B-0014,Physics for Scientists,Raymond Serway,Science,9788131720000,1,1
+B-0015,Discrete Mathematics,Kenneth Rosen,Mathematics,9780073383095,2,2
